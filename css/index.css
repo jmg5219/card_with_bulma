@@ -18,3 +18,11 @@ body {
     widows: 100%;
     height: auto;
 }
+.wrapper{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    padding: 10 10px;
+}
