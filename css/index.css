@@ -1,5 +1,6 @@
 *, *:before, *after{
     box-sizing: border-box;
+    
 }
 
 html{
@@ -12,3 +13,8 @@ body {
     padding: 0;
 }
 
+
+.card-image1{
+    widows: 100%;
+    height: auto;
+}
